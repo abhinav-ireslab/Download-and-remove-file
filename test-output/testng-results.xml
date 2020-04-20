@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14488" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14488" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
+      <class name="Files.Spellchecker">
+        <test-method status="PASS" signature="main()[pri:1, instance:Files.Spellchecker@2ac273d3]" name="main" duration-ms="14468" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- Files.Spellchecker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
