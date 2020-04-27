@@ -2,16 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14488" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
+  <suite name="Default suite" duration-ms="19622" started-at="2020-04-23T08:18:14Z" finished-at="2020-04-23T08:18:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14488" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
-      <class name="Files.Spellchecker">
-        <test-method status="PASS" signature="main()[pri:1, instance:Files.Spellchecker@2ac273d3]" name="main" duration-ms="14468" started-at="2020-03-30T07:48:25Z" finished-at="2020-03-30T07:48:39Z">
+    <test name="Default test" duration-ms="19622" started-at="2020-04-23T08:18:14Z" finished-at="2020-04-23T08:18:34Z">
+      <class name="Files.ExtentDemo">
+        <test-method status="PASS" signature="extentReportsDemo()[pri:0, instance:Files.ExtentDemo@210366b4]" name="extentReportsDemo" duration-ms="19447" started-at="2020-04-23T08:18:14Z" finished-at="2020-04-23T08:18:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- main -->
-      </class> <!-- Files.Spellchecker -->
+        </test-method> <!-- extentReportsDemo -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:Files.ExtentDemo@210366b4]" name="startTest" is-config="true" duration-ms="152" started-at="2020-04-23T08:18:34Z" finished-at="2020-04-23T08:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- Files.ExtentDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

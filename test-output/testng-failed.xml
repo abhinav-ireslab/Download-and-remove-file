@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Files.Spellchecker">
+      <class name="Files.ExtentDemo">
         <methods>
-          <include name="main"/>
+          <include name="extentReportsDemo"/>
         </methods>
-      </class> <!-- Files.Spellchecker -->
+      </class> <!-- Files.ExtentDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
