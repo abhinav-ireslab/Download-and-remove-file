@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Files.ExtentDemo">
+      <class name="Files.Games">
         <methods>
-          <include name="extentReportsDemo"/>
+          <include name="details"/>
         </methods>
-      </class> <!-- Files.ExtentDemo -->
+      </class> <!-- Files.Games -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
